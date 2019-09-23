@@ -1,0 +1,168 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.wrapper{
+    text-align:center;}
+    /*home start*/
+.text a{
+    text-decoration: none;
+    background-color: #1d809f;
+    color:white;
+    padding:25px 35px;
+    border-radius: 5px;
+    font-size:20px
+
+}
+.text h1{
+    font-size:100px;
+}
+.text p{font-size:40px;
+    
+}
+
+
+
+.text{padding:150px;
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+}
+/*home end*/
+/*about start*/
+.about{
+    text-align: center;
+    background-color: white;
+    padding:100px;
+}
+.about h1{
+    font-size:30px;
+}
+.about p{
+    font-size:20px;
+    padding-bottom:40px;
+}
+.about a{
+    background-color: #212529;
+    color:white;
+    padding:25px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/*about end*/
+
+/*services start*/
+.services{
+    text-align:center;
+    background-color: #1d809f;
+    padding:100px;
+}
+.services h1{
+    color:white;
+    font-size:30px;
+}
+.services p{
+    color:rgb(165, 165, 6);
+}
+.icon{
+    width: 25%;
+    text-align: center;
+}
+.ser-icon{
+    display: flex;
+}
+.ser-icon p{
+    color:white;
+}
+.icon i{
+    font-size: 40px;
+    padding:20px;
+    background-color: white;
+    border-radius: 55%;
+    
+    color:#1d809f;
+}
+/*services end*/
+/*welcome start*/
+.wel{
+    text-align: center;
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    padding:200px;
+}
+.wel h1{
+    font-size: 60px;
+}
+.wel a{ text-decoration: none;
+    background-color:#007bff;
+    color:white;
+    padding:25px 35px;
+    border-radius: 5px;
+
+}
+/*welcome end*/
+/*portfolio start*/
+.port{
+    text-align: center;
+    padding:100px 0;
+}
+.port p{ 
+    color:rgb(197, 197, 12);
+    
+}
+.port h1{
+    font-size: 50px;
+}
+
+    
+.port-img{
+    width: 50%;
+    display: flex;
+}
+.img1:hover{
+    transform: scale(0.8);
+    transition: transform .5s;
+}
+.img2:hover{transform: scale(0.8);
+    transition: transform .5s;
+
+}
+/*portfolio  end*/
+/*button  start*/
+.button{
+    text-align: center;
+    background-color: #007bff;
+    padding:130px;
+}
+.button h1{
+    font-size: 30px;
+    color: white;
+    padding-bottom:30px;
+   
+}
+.clik{background-color: white;
+    color:black;
+    padding:20px 30px;
+    border-radius: 5px;
+    margin-right:10px;
+   
+    
+    
+
+}
+.look{
+    background-color: black;
+    color:white;
+    padding:20px 30px;
+    border-radius: 5px;
+    margin-left:10px;
+   
+    
+    
+}
+
+}
+
+/*button end*/
+
+
+
+
